@@ -1,9 +1,4 @@
 //
-//  Display_photoViewController.swift
-//  the_phot_app
-//
-//  Created by zeel darji on 17/12/24.
-//
 
 import UIKit
 
